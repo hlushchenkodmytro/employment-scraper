@@ -12,7 +12,7 @@ Make sure Python and pip are installed on your machine.
 
 ```bash
 pip install selenium
-pip install opencv-python
+pip install openpyxl
 ```
 
 2. Install [Google Chrome](https://www.google.com/chrome/) if you haven’t already.
