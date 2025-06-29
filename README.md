@@ -50,7 +50,7 @@ may stop working if the site's HTML layout is updated.
 
 * If you encounter errors, inspect the page using your browser’s Developer Tools (F12), find the new selectors, and update the script accordingly.
 
-## 📄 Output
+##   Output
 
 The script will generate an Excel file containing a list of job titles and their corresponding requirements.
 
