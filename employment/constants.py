@@ -1,0 +1,1 @@
+BASE_URL = "https://www.stepstone.de/jobs/developer/in-trier?radius=100&searchOrigin=Resultlist_top-search"
